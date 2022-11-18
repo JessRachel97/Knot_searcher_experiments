@@ -1,4 +1,4 @@
-# Knot Searcher Experiments
+# Illuminating new and known relations between knot invariants
 
 ## About
 Code to accompany the paper "Illuminating new and known relations between knot invariants". <br>
