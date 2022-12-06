@@ -1,0 +1,7 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+bibliography: bib.bib
+---
+[Craven:2022cxe]
