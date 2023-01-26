@@ -5,6 +5,9 @@ Code to accompany the paper "Illuminating new and known relations between knot i
 Includes results files, code to run your own experiments, and code to generate output tables from the results files.
 For usage instructions, please consult Appendices A and B in the paper.
 
+## Usage
+To run the code, download the KnotInfo data from https://knotinfo.math.indiana.edu/ and save it in a csv format.
+
 ## Citation
 Cite as 
 @article{craven2022illuminating,
